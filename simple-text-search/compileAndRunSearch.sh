@@ -1,2 +1,2 @@
 javac src/x/SearchMain.java -d .
-java x.SearchMain $*
+java -Xmx1g x.SearchMain input
