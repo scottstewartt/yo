@@ -1,0 +1,4 @@
+# sbt build artifacts
+/scala-code-examples/target/
+/scala-code-examples/project/target/
+/scala-code-examples/project/project/
